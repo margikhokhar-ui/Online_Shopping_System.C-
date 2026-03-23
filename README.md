@@ -239,7 +239,7 @@ This project demonstrates the implementation of a basic online shopping system u
 
 ## 👨‍💻 Author
 
-**Your Name**
+Margi Khokhar
 B.Tech CSE (1st Year)
 JG University
 
