@@ -67,17 +67,6 @@ using namespace std;
 * Generate total bill
 * Menu-driven interface
 
----
-
-## ▶️ How to Run the Project
-
-1. Install a C++ compiler (CodeBlocks / Dev C++ / g++)
-2. Copy the code into a `.cpp` file
-3. Compile and run the program
-4. Use menu options to perform operations
-
----
-
 ## 📊 Sample Output
 
 ```
